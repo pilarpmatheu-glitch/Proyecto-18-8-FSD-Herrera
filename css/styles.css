@@ -19,10 +19,15 @@ section {
 }
 
 .anakin {
-  width: 150px;
+  width: 400px;
   border-radius: 10px;
 }
 
 .titulo {
   color: #4dabf7;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
 }
