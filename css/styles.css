@@ -1,48 +1,28 @@
 body {
-  background-color: #111;
+  background: #111;
   color: white;
-  font-family: Arial, sans-serif;
   text-align: center;
-  margin: 0;
-  padding: 20px;
+  font-family: Arial;
 }
 
-h1 {
+h1, h3 {
   color: #ffe81f;
 }
 
 section {
-  margin: 25px auto;
-  padding: 15px;
-  max-width: 500px;
-  border: 2px solid #ffe81f;
+  margin: 20px;
+}
+
+.personaje {
+  background: #222;
+  padding: 10px;
+}
+
+.anakin {
+  width: 150px;
   border-radius: 10px;
-}
-
-ul {
-  list-style: none;
-  padding: 0;
-}
-
-li {
-  color: #ddd;
 }
 
 .titulo {
   color: #4dabf7;
-}
-
-.personaje {
-  background-color: #222;
-  padding: 15px;
-  border-radius: 10px;
-}
-
-.anakin {
-  width: 450px;
-  border-radius: 10px;
-}
-
-h3 {
-  color: #ffe81f;
 }
